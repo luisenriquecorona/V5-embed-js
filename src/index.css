@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300);
+
+body{
+  font-family:'Source Sans Pro'
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 2px;
+  cursor: inherit;
+  border: 0;
+  color: #fff;
+  width: 150px;
+  outline: 0;
+  font-family: inherit;
+  background-color: #4985e9;
+  display:block;
+  cursor:pointer;
+  margin: 30px auto;
+}
+
+#rootElem {
+  max-width: 600px;
+  margin: 0 auto;
+}

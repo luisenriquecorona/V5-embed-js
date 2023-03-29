@@ -1,0 +1,26 @@
+{
+  "name": "embedjs-demo-forked",
+  "version": "0.0.0",
+  "description": "example for embed-preset-basic",
+  "keywords": [
+    "embed-js",
+    "embed",
+    "youtube",
+    "twitter",
+    "media"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "embed-preset-basic": "5.0.3-0",
+    "embed-js": "5.0.3-0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
